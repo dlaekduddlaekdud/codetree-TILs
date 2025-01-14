@@ -1,2 +1,3 @@
-a=18
-print(a+2)
+n = 18
+n = n+2
+print(n)

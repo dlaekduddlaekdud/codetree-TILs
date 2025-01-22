@@ -1,2 +1,3 @@
 ft = float(input())
-print(f"{ft:.2f}")
+n = ft*30.48
+print(f"{n:.1f}")

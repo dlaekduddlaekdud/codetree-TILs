@@ -5,5 +5,5 @@ a = int(arr[0])
 b = int(arr[1])
 c = int(input())
 
-print(a, b)
-print(c)
+print(a, b, c)
+

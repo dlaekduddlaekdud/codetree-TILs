@@ -6,7 +6,7 @@ def f(y):
         if y % 100 == 0 and y % 400 != 0:
             return 'false'
         else:
-            reutrn 'true'
+            return 'true'
     else:
         return 'false'
         
